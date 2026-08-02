@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner o Encabezado Principal -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Rony%20Grijalva%20De%20La%20Cruz&fontSize=38&fontColor=58a6ff&animation=fadeIn&subtext=Estudiante%20de%20Ingeniería%20de%20Software%20|%20UNMSM&subfontSize=18&subFontColor=8b949e" width="100%" />
+  <!-- Banner principal -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Rony%20Smith%20Grijalva%20De%20La%20Cruz&fontSize=32&fontColor=58a6ff&animation=fadeIn&subtext=Estudiante%20de%20Ingeniería%20de%20Software%20|%20UNMSM&subfontSize=18&subFontColor=8b949e" width="100%" />
 
   <p align="center">
     <b>"Todo lo puedo en Cristo que me fortalece." — Filipenses 4:13</b>
@@ -21,21 +21,29 @@
 
 ### 👨‍💻 Sobre Mí
 
-¡Hola! Soy **Rony Grijalva**, estudiante de **6to ciclo de Ingeniería de Software** en la **Universidad Nacional Mayor de San Marcos (UNMSM)** 🎓. 
+¡Hola! Soy **Rony Grijalva**, estudiante de **6to ciclo de Ingeniería de Software** en la **Universidad Nacional Mayor de San Marcos (UNMSM)** 🎓.
 
-Me me caracterizo por ser una persona **responsable, puntual, respetuosa** y con un constante deseo de aprender y superar nuevos retos. Mi meta es consolidarme como un Ingeniero de Software integral, capaz de diseñar e implementar soluciones tecnológicas eficientes, escalables y orientadas al impacto real en el negocio.
+Me caracterizo por ser una persona **responsable, puntual, respetuosa** y con un constante deseo de aprender. Mi meta es consolidarme como un Ingeniero de Software integral, combinando el desarrollo de software con el análisis estratégico de datos para crear soluciones tecnológicas eficientes que impulsen la toma de decisiones.
 
-* 🎓 **Formación:** Universidad Nacional Mayor de San Marcos (UNMSM) — FISI.
-* 🚀 **Enfoque:** Desarrollo Web & Móvil, Business Intelligence, Data Analytics y Arquitectura de Software.
-* 🤖 **Productividad:** Integro **Inteligencia Artificial** de forma activa en mi flujo de trabajo para agilizar la resolución de problemas, refactorización y documentación.
-* 📍 **Ubicación:** Lima, Perú.
+* 🎓 **Formación Académica:** Universidad Nacional Mayor de San Marcos (UNMSM) — FISI.
+* 📜 **Especialización Complementaria:** Data Analytics & BI en **Data Academy**.
+* 🚀 **Áreas de Interés:** Software Engineering, Full Stack, Mobile, Data Analytics & Business Intelligence.
+* 🤖 **Productividad:** Integro **Inteligencia Artificial** activamente para agilizar tareas, optimizar código y acelerar el desarrollo de proyectos.
+
+---
+
+### 📜 Certificaciones Profesionales (Data Academy)
+
+* **SQL de 0 a Avanzado** (30 hrs) — *Data Academy LATAM*
+* **Python for Data Analytics** (30 hrs) — *Data Academy LATAM*
+* **Power BI de 0 a Intermedio** (30 hrs) — *Data Academy LATAM*
 
 ---
 
 ### 🛠️ Stack Tecnológico y Herramientas
 
 <p align="left">
-  <!-- Lenguajes & Frameworks -->
+  <!-- Desarrollo de Software -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -45,7 +53,7 @@ Me me caracterizo por ser una persona **responsable, puntual, respetuosa** y con
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <br/>
-  <!-- Data & Bases de Datos -->
+  <!-- Data Analytics & BI -->
   <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -60,32 +68,33 @@ Me me caracterizo por ser una persona **responsable, puntual, respetuosa** y con
 
 ### 🚀 Proyectos Destacados
 
-#### 🌐 Web Platform — Multiservicios Grijalva SAC
-* **Descripción:** Plataforma web integral para la gestión de flota y servicio al cliente. Incluye catálogo interactivo de vehículos, sistema dinámico de reservas, información corporativa y canal directo de reservas mediante WhatsApp.
+#### 📊 Análisis Inteligente de Ventas y Clientes
+> *Transformando datos en información y la información en decisiones.*
+* **Descripción:** Proyecto de Data Analytics y Business Intelligence enfocado en convertir datos comerciales en información estratégica para la toma de decisiones. Procesa más de 500,000 registros transaccionales para identificar patrones de venta, productos rentables y comportamiento del cliente.
+* **Tecnologías:** `Python`, `SQL Server`, `Data Analytics`, `Business Intelligence`.
+
+---
+
+#### 📈 Dashboard Interactivo de Ventas y Rendimiento
+* **Descripción:** Dashboard interactivo desarrollado para el análisis integral de ventas, ingresos, devoluciones y comportamiento de clientes. Permite monitorear KPIs clave, identificar tendencias y apoyar la toma de decisiones basada en datos mediante visualizaciones dinámicas e intuitivas.
+* **Tecnologías:** `Power BI`, `Power Query`, `DAX`.
+
+---
+
+#### 🌐 Página Web Corporativa — Multiservicios Grijalva SAC
+* **Descripción:** Plataforma web enfocada en captar la atención de clientes, presentar la propuesta de la empresa y gestionar el sistema de reservas y visualización de flota vehicular, facilitando el contacto directo vía mensaje o WhatsApp.
 * **Tecnologías:** `React`, `Node.js`, `MySQL`, `CSS3`.
 
 ---
 
 #### 📱 App Móvil Institucional — UNMSM FISI
-* **Descripción:** Aplicación móvil orientada a estudiantes ingresantes de la Facultad de Ingeniería de Sistemas e Informática. Permite consultar horarios de clases, mapas/aulas asignadas, itinerario académico y guías de cursos en tiempo real.
+* **Descripción:** Aplicación móvil dirigida a alumnos recién ingresantes de la Facultad de Ingeniería de Sistemas e Informática (UNMSM). Les permite consultar sus horarios, asignaturas y la ubicación exacta de las aulas asignadas.
 * **Tecnologías:** `Flutter`, `Dart`, `REST API`.
 
 ---
 
-#### 📊 Análisis Inteligente de Ventas y Clientes (BI & Data Analytics)
-* **Descripción:** Solución de Inteligencia de Negocios para el análisis de más de 500,000 registros transaccionales en e-commerce/retail. Incluye modelado dimensional, análisis relacional en SQL y cuadros de mando analíticos.
-* **Tecnologías:** `Python`, `SQL Server`, `Power BI`, `Pandas`.
-
----
-
-#### 📞 Análisis Estratégico de Churn y Fidelización de Clientes
-* **Descripción:** Estudio analítico sobre +64,000 clientes del sector telecomunicaciones para detectar patrones de abandono, identificar factores críticos de riesgo económico y proponer estrategias de retención.
-* **Tecnologías:** `SQL Server`, `Power BI`, `Modelado de Datos`.
-
----
-
-#### 📈 PIGE — Plataforma Inteligente de Gestión Económica
-* **Descripción:** Sistema SaaS orientado a pequeños negocios para la centralización de flujo de caja, evaluación de métricas de rentabilidad e informes financieros automatizados.
+#### 💡 PIGE — Plataforma Inteligente de Gestión Económica
+* **Descripción:** Plataforma diseñada para la gestión económica, optimización de presupuesto y análisis financiero en entornos de negocio.
 * **Tecnologías:** `Python`, `Streamlit`, `SQL`.
 
 ---
@@ -100,5 +109,5 @@ Me me caracterizo por ser una persona **responsable, puntual, respetuosa** y con
 ---
 
 <div align="center">
-  <sub>Diseñado por Rony Grijalva De La Cruz • 2026</sub>
+  <sub>Desarrollado por Rony Smith Grijalva De La Cruz • 2026</sub>
 </div>
