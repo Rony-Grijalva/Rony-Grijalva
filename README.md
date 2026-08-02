@@ -103,8 +103,7 @@ Me caracterizo por ser una persona **responsable, puntual, respetuosa** y con un
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rony-Grijalva&show_icons=true&theme=dark&locale=es&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Estadísticas de Rony Grijalva" height="160" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rony-Grijalva&layout=compact&theme=dark&locale=es&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Lenguajes más usados por Rony Grijalva" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-Grijalva&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff" alt="Racha de contribuciones" height="160" />
 </p>
 
 ---
