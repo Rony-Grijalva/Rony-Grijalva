@@ -34,9 +34,10 @@ Me caracterizo por ser una persona **responsable, puntual, respetuosa** y con un
 
 ### 📜 Certificaciones Profesionales (Data Academy)
 
-* **SQL de 0 a Avanzado** (30 hrs) — *Data Academy LATAM*
+* **Curso de Diseño Web Profesional** (97 hrs) — *Udemy (Carlos Arturo Esparza)*
+* **SQL for Data Analytics** (30 hrs) — *Data Academy LATAM*
 * **Python for Data Analytics** (30 hrs) — *Data Academy LATAM*
-* **Power BI de 0 a Intermedio** (30 hrs) — *Data Academy LATAM*
+* **Power BI for Data Analytics** (30 hrs) — *Data Academy LATAM*
 
 ---
 
@@ -102,8 +103,8 @@ Me caracterizo por ser una persona **responsable, puntual, respetuosa** y con un
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rony-Grijalva&show_icons=true&theme=dark&locale=es&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Estadísticas de Rony Grijalva" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rony-Grijalva&layout=compact&theme=dark&locale=es&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Lenguajes más usados por Rony Grijalva" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rony-Grijalva&show_icons=true&theme=dark&locale=es&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Estadísticas de Rony Grijalva" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rony-Grijalva&layout=compact&theme=dark&locale=es&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Lenguajes más usados por Rony Grijalva" height="160" />
 </p>
 
 ---
